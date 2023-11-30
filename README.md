@@ -1,5 +1,5 @@
 # Banda Sinfônica de Catanduva
-##Projeto final da Trilha 2 - Descodificadas
+## Projeto final da Trilha 2 - Descodificadas
 
 ##_Descrição do conteúdo:_
 
