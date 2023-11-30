@@ -8,3 +8,7 @@
 - Portfólio de fotos e vídeos da banda;
 - Formulário de Inscrição;
 - Contato e Redes sociais.
+
+<../images/1.png>
+<../images/2.png>
+<../images/3.png>
