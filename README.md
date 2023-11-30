@@ -9,4 +9,4 @@
 - Formulário de Inscrição;
 - Contato e Redes sociais.
 
-<img src="images/1.png" height="150px">
+<img src="images/1.png" height="350px">
