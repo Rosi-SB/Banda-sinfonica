@@ -25,7 +25,7 @@ header,h2,footer{
 }
 nav{
     color: aliceblue;
-    background-color: yellow;   
+    background-color: rgb(208, 208, 75);   
     display: flex;
     align-items: center;
     justify-content: center; 
