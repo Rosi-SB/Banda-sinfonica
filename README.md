@@ -9,6 +9,6 @@
 - Formulário de Inscrição;
 - Contato e Redes sociais.
 
-<../images/1.png>
-<../images/2.png>
-<../images/3.png>
+<img src:"../images/1.png">
+<img src:"../images/2.png">
+<img src:"../images/3.png">
