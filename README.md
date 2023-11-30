@@ -10,3 +10,5 @@
 - Contato e Redes sociais.
 
 <img src="images/1.png" height="350px">
+<img src="images/2.png" height="350px">
+<img src="images/3.png" height="350px">
