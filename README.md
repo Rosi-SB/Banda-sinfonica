@@ -1,7 +1,7 @@
 # Banda Sinfônica de Catanduva
 ## Projeto final da Trilha 2 - Descodificadas
 
-##_Descrição do conteúdo:_
+## _Descrição do conteúdo:_
 
 - História do início da banda;
 - Cronograma de shows;
